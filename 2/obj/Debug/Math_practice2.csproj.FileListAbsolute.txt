@@ -1,0 +1,21 @@
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Math_practice2\bin\Debug\Math_practice2.exe.config
+C:\Users\Пользователь\source\repos\Math_practice2\bin\Debug\Math_practice2.exe
+C:\Users\Пользователь\source\repos\Math_practice2\bin\Debug\Math_practice2.pdb
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.exe
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.pdb
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\bin\Debug\Math_practice2.exe.config
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\bin\Debug\Math_practice2.exe
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\bin\Debug\Math_practice2.pdb
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\obj\Debug\Math_practice2.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\obj\Debug\Math_practice2.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\obj\Debug\Math_practice2.exe
+C:\Users\Legion\Desktop\практики 2 семестр\Math_Practice2-main\obj\Debug\Math_practice2.pdb
+C:\Users\Legion\Desktop\практики 2 семестр\2\bin\Debug\Math_practice2.exe.config
+C:\Users\Legion\Desktop\практики 2 семестр\2\bin\Debug\Math_practice2.exe
+C:\Users\Legion\Desktop\практики 2 семестр\2\bin\Debug\Math_practice2.pdb
+C:\Users\Legion\Desktop\практики 2 семестр\2\obj\Debug\Math_practice2.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\практики 2 семестр\2\obj\Debug\Math_practice2.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\практики 2 семестр\2\obj\Debug\Math_practice2.exe
+C:\Users\Legion\Desktop\практики 2 семестр\2\obj\Debug\Math_practice2.pdb
